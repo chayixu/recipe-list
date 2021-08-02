@@ -1,6 +1,6 @@
 # Spring Boot Recipe Application
 
-A recipe list web application using Spring Framework
+A recipe list web application using Spring Framework (Online study)
 
 ## Dependencies
 | name | version |
@@ -33,4 +33,4 @@ A recipe list web application using Spring Framework
 #### Input invalid when updating
 ![error](previews/errorHandle.png)
 
-JAVA Project For online study.
+
